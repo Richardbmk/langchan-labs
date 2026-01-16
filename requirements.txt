@@ -6,3 +6,5 @@ python-dotenv==1.2.1
 grandalf==0.8
 langchain-community==0.4.1
 redis==7.1.0
+wikipedia==1.4.0
+yfinance==1.0
