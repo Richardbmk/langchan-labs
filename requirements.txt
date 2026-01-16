@@ -8,3 +8,5 @@ langchain-community==0.4.1
 redis==7.1.0
 wikipedia==1.4.0
 yfinance==1.0
+pypdf==6.6.0
+langchain-chroma==1.1.0
